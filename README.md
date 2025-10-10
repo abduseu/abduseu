@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Abdus Salam</h1>
 <p align="center">
-  <a><img src="https://readme-typing-svg.herokuapp.com?lines=Full-stack+Developer;React+Developer;&center=true&width=500&height=50"></a>
+  <a><img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer;React+Developer;&center=true&width=500&height=50"></a>
 </p>
 <p align="center">
-  As a Full-stack Software Developer with a focus on Frontend Development. I thrive on creating interactive, visually stunning, and user-friendly websites. With a proactive approach to staying updated on new technologies, I am committed to continuously improving user experiences through responsive and accessible designs. Let's collaborate to shape the future of the web together!
+  I’m a Frontend Developer focused on building interactive, responsive, and user-friendly web applications. I convert designs into web experiences that work well across devices and are easy to use.
 </p>
 <img src="https://github.com/abduseu/abduseu/blob/main/coding-banner-php.png">
 
