@@ -3,7 +3,7 @@
   <a><img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer;React+Developer;&center=true&width=500&height=50"></a>
 </p>
 <p align="center">
-  Front-end Developer with hands-on experience in React and JavaScript (ES6+), building responsive, performance-optimized web applications. Translates UI/UX designs into cross-browser, mobile-friendly interfaces, improving usability and code maintainability.
+  Front-end Developer specializing in React and modern JavaScript (ES6+), building dynamic, interactive, and data-driven web applications. Strong fundamentals in programming, state management, and API integration, delivering maintainable, high-performance code and seamless user experiences.
 </p>
 <img src="https://github.com/abduseu/abduseu/blob/main/coding-banner-php.png">
 
