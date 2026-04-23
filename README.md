@@ -8,7 +8,7 @@
 <img src="https://github.com/abduseu/abduseu/blob/main/coding-banner-php.png">
 
 
-<h3 align="center">My skill set:</h3>
+<!-- <h3 align="center">My skill set:</h3>
 <p style="
   display: flex;
   flex-wrap: wrap;
@@ -30,7 +30,7 @@
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  
     <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-</p>
+</p> -->
 
 <!-- <div align="center" style="display: flex; justify-content: center;">
     <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=abduseu&show_icons=true&locale=en" alt="abduseu" /></p>
